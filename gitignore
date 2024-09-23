@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pkl
+
+# Data files
+data/
+
+# Poetry specific
+poetry.lock

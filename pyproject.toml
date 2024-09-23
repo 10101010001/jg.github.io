@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "nameofproject"
+version = "0.1.0"
+description = "This is the first test for work on git."
+authors = ["juangonzalez <juank.gonzalezr1@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+numpy = "n"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
